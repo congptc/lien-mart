@@ -1,0 +1,36 @@
+.title{
+    color: white !important;
+    margin: 0 0 0 0;
+}
+
+a{
+    text-decoration: none !important;
+}
+
+.slogan{
+    color: yellow;
+}
+
+.background-top{
+    background-color:#ed1c24;
+    padding: 0 0 0 0;
+}
+
+.item{
+    background-color:white;
+}
+
+.caption-custom{
+    color: white;
+}
+
+.caption-custom>p.price{
+    font-weight: bold;
+    background-color: #ed1c24;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    font-size: 17px;
+}
+
+
